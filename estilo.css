@@ -1,0 +1,166 @@
+body{
+    background: url(Inicio.jpg);
+    font-size: 16px;
+    background-repeat: no-repeat;
+    
+    
+}
+.Fondo{
+    display: flex;
+    margin-top: 0%;
+    width: 10em;
+    height: 17em;
+   
+
+}
+.notebook{
+
+    width: 30em;
+    height: 50em;
+
+}
+#V{
+
+    margin-top: -700px;
+}
+.manos{
+
+   
+
+    width: 30em;
+    height: 50em;
+
+}
+.contenedor{
+
+    display: flex;
+   padding: 1em;
+    text-align: center;
+    margin-left: 8em;
+    margin-top: 2em;
+    
+   
+}
+a{
+    margin-top: 0%;
+    padding: 1em;
+    text-decoration: none;
+    color: white;
+width: 5em;
+}
+a:hover{
+
+    color: gray;
+}
+h2{
+    color: aliceblue;
+        margin: 5em;
+        margin-top: 0%;
+}
+p{
+    margin-left: 8em;
+    color: aliceblue;
+
+
+}
+.exito{
+
+    width: 28em;
+    height: 28em;
+}
+#Servicios{
+
+
+    margin-top: -17em;
+}
+.e{
+
+    width: 26em;
+    height: 23em;
+    margin-top: -7em;
+}
+.cartel{
+    width: 26em;
+    height: 26em;
+}
+form{
+    background-color: black;
+}
+.formulario{
+   
+    width: 34em;
+    height: 38em;
+   text-align: left;
+    margin-right: 3em;
+    
+}
+
+label{
+    margin: 1em;
+}
+input{
+    border-radius: 10px;
+}
+#email{
+    
+    margin-left: 9.5em;
+}
+textarea{
+    margin-left: -3em;
+    width: 25em;
+    height: 10em;
+    border-radius: 10px;
+}
+.gracias{
+
+    width: 19em;
+    height: 14em;
+    margin-left: 5em;
+}
+#contactanos{
+    margin-top: -2em;
+    color: white;
+    margin-left: 10em;
+
+}
+.negro{
+    
+ 
+    margin-left: 14em;
+    background-color: black;
+    width: 70%;
+    height: 15em;
+    border-radius: 10px;
+       }
+       .c{
+       display: flex;
+
+       }
+
+       #telefono{
+        margin-top: 2em;
+       
+        margin-right: 2em;
+
+        width: 3em;
+
+
+       }
+       .iconos{
+        margin-top: 3em;
+        margin-left: 1em;
+      
+
+        width: 3em;
+
+       }
+       #enviar{
+        background-color: white;
+        margin-left: 7em;
+        width: 6em;
+        height: 2em;
+
+
+
+       }
+      
