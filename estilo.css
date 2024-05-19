@@ -177,10 +177,10 @@ textarea{
         .notebook{
             width:15em ;
             height:25em ;
-            margin-right: 0%;
+            margin-right: 0px;
          }
          .negro{
-            width: 90%;
+            width: 100%;
             margin-left: 7em;
          }
          #telefono{
@@ -195,7 +195,7 @@ textarea{
             margin-right: 0%;
          }
          .negro{
-            width: 90%;
+            width: 100%;
             margin-left: 7em;
          }
          #telefono{
@@ -216,7 +216,7 @@ textarea{
          }
 
          .negro{
-            width: 90%;
+            width: 100%;
             margin-left: 7em;
          }
          #telefono{
