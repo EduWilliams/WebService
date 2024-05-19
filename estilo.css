@@ -178,6 +178,19 @@ textarea{
     
     }
     @media(max-width: 480px) {
+        .notebook{
+            width:15em ;
+            height:25em ;
+            margin-right: 0%;
+         }
+         .negro{
+            width: 90%;
+            margin-left: 7em;
+         }
+         #telefono{
+            margin-right: 1em;
+         }
+        
        
     }
     
