@@ -175,8 +175,7 @@ textarea{
     @media(max-width: 768px) {
        
         .notebook{
-            width:15em ;
-            height:25em ;
+            
             margin-right: 0px;
          }
          .negro{
@@ -190,8 +189,7 @@ textarea{
     }
     @media(max-width: 480px) {
         .notebook{
-            width:15em ;
-            height:25em ;
+        
             margin-right: 0%;
          }
          .negro{
@@ -210,8 +208,8 @@ textarea{
     @media(max-width: 320px) {
         
          .notebook{
-            width:15em ;
-            height:25em ;
+            
+            
             margin-right: 0%;
          }
 
