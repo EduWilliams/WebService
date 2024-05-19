@@ -190,7 +190,7 @@ textarea{
     @media(max-width: 480px) {
         .notebook{
         
-            margin-right: 0%;
+            text-align: right;
          }
          .negro{
             width: 100%;
