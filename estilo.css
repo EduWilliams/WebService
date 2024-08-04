@@ -175,7 +175,11 @@ textarea{
       
     }
     @media(max-width: 768px) {
-       font-size: 12px;
+
+        body{
+            font-size: 12px;
+          }
+            
 
     }
     @media(max-width: 576px) {
